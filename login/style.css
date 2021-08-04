@@ -122,18 +122,43 @@
 
 /* ---------------- */
 
-.NextPage {
+.NextPage1 {
   border-radius: 100%;
   width: 5%;
   height: 10%;
   background-color: #01a38a;
   position: absolute;
+  margin-top: 220px;
+  margin-left: 20px;
 }
 
-.NextPage a {
+.NextPage1 a {
   color: white;
+  font-weight: bold;
+  padding-top: 20px;
+  margin: auto;
+  text-decoration: none;
 }
 
+
+
+.NextPage2 {
+  border-radius: 100%;
+  width: 5%;
+  height: 10%;
+  background-color: #01a38a;
+  position: absolute;
+  margin-top: 220px;
+  margin-left: 1420px;
+}
+
+.NextPage2 a {
+  color: white;
+  font-weight: bold;
+  padding-top: 20px;
+  margin: auto;
+  text-decoration: none;
+}
 /* --------------------------------------------------------------------------------------------------------------------------- */
 
 .rightimportant {
